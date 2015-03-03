@@ -16,6 +16,12 @@ Here's how the shortner should work:
 
 4. There should be an admin page that allows an admin user to view all shortened URLs the system has generated.
 
+5. Provide an API to allow creating new shortened urls and retrieving information from existing ones.
+
+Bonus!
+------
+
+Provide an easy way to start the project to prove all criterias were met. It can be a script, vagrant image, etc. Use your creativity!
 
 Instructions
 ------------
